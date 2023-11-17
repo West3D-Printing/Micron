@@ -4,6 +4,7 @@
 - We found it useful to have an extra PCB DIN clip to use for securing wires (more on that later).
 - These modified Z belt covers work well and give a little more clearance for the A/B motors: https://github.com/PrintersForAnts/Micron/tree/main/Mods/Kayos%20Maker/Flat%20Z%20Belt%20Covers/STLs
 - A modified bowden tube entry that adds an ECAS fitting can be found in this repository
+- If you plan on moving the printer often this spool holder is convenient: https://www.printables.com/model/542953-voron-v02-foldable-spool-holder
 # Toolhead
 The default toolhead for our kit is the Dragonburner with an Orbiter extruder. You can get the files at https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner
 
