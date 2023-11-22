@@ -6,7 +6,7 @@
 - A modified bowden tube entry that adds an ECAS fitting can be found in this repository
 - If you plan on moving the printer often this spool holder is convenient: https://www.printables.com/model/542953-voron-v02-foldable-spool-holder
 # Toolhead
-The default toolhead for our kit is the Dragonburner with an Orbiter extruder. You can get the files at https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner
+The default toolhead for our kit is the Dragonburner with an Orbiter extruder. You can get the files at https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner. You need to use the STL files in the v0.2 directory. There's even a cowl with the Micron logo!
 
 - If using the Pancake toolhead board and harness you can get the toolhead board mount at https://github.com/christophmuellerorg/voron_0_pancake_board
 - If using an EBB36 CAN board we recommend the mount by KayosMaker at https://github.com/KayosMaker/CANboard_Mounts/tree/main/STLs/BTT_EBB36_1.0_Mounts
