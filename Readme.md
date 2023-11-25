@@ -17,5 +17,5 @@ The default toolhead for our kit is the Dragonburner with an Orbiter extruder. Y
 
 # Screen
 We recommend the BTT TFT43 screen if you're using a Raspberry Pi. If you're using a BTT Pi we recommend you either don't use a screen or source a different option; the BTT TFT35 SPI screen doesn't meet our usability requirements. You will need:
-- The files in the BTT_TFT43 folder in this repository
+- The mount in the BTT_TFT43 folder in this repository
 - The front skirt, accent, and bezel files from https://github.com/PrintersForAnts/Micron/tree/main/Mods/hartk1213/180/Waveshare4.3
