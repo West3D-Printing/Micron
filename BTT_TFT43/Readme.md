@@ -1,1 +1,1 @@
-Modified files from https://github.com/PrintersForAnts/Micron/tree/main/Mods/hartk1213/180/Waveshare4.3 to fit the BTT TFT43 screen.
+Modified mount from https://github.com/PrintersForAnts/Micron/tree/main/Mods/hartk1213/180/Waveshare4.3 to fit the BTT TFT43 screen. You will need to download one of the bezels from Hartk's repo.
