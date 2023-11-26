@@ -19,3 +19,7 @@ The default toolhead for our kit is the Dragonburner with an Orbiter extruder. Y
 We recommend the BTT TFT43 screen if you're using a Raspberry Pi. If you're using a BTT Pi we recommend you either don't use a screen or source a different option; the BTT TFT35 SPI screen doesn't meet our usability requirements. You will need:
 - The mount in the BTT_TFT43 folder in this repository
 - The front skirt, accent, and bezel files from https://github.com/PrintersForAnts/Micron/tree/main/Mods/hartk1213/180/Waveshare4.3
+
+# Electronics bay layout
+Our kit uses a slightly different electronics layout for convenience. Look ath the electronics bay:
+![Electronics bay](https://github.com/West3D-Printing/Micron/images/image_001.jpg "West3D Micron electronics bay")
