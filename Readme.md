@@ -8,8 +8,8 @@
 # Toolhead
 The default toolhead for our kit is the Dragonburner with an Orbiter extruder. You can get the files at https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner. You need to use the STL files in the v0.2 directory. There's even a cowl with the Micron logo!
 
-- If using the Pancake toolhead board and harness you can get the toolhead board mount at https://github.com/christophmuellerorg/voron_0_pancake_board
-- If using an EBB36 CAN board we recommend the mount by KayosMaker at https://github.com/KayosMaker/CANboard_Mounts/tree/main/STLs/BTT_EBB36_1.0_Mounts
+- If you're using the Pancake toolhead board and harness you can get the toolhead board mount at https://github.com/christophmuellerorg/voron_0_pancake_board
+- If you're using the EBB36 CAN board we recommend the mount by KayosMaker at https://github.com/KayosMaker/CANboard_Mounts/tree/main/STLs/BTT_EBB36_1.0_Mounts
 
 # Toolhead mount & probe
 - We recommend using Boop as the toolhead mount and Z probe/endstop. You can get the files at https://github.com/PrintersForAnts/Boop/tree/main
@@ -22,4 +22,4 @@ We recommend the BTT TFT43 screen if you're using a Raspberry Pi. If you're usin
 
 # Electronics bay layout
 Our kit uses a slightly different electronics layout for convenience. Looking at the electronics bay:
-![image](https://github.com/West3D-Printing/blob/main/Micron/images/image_001.jpg)
+![image](images/image_001.jpg)
