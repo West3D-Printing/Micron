@@ -28,4 +28,4 @@ Our kit uses a slightly different electronics layout for convenience. Looking at
 <br><br>This lets us keep the AC wiring short and contained to the right side (in this view) of the electronics bay. The toolhead wiring and most of the DC wiring is the run on the left side of the bay. We found it helpful to install a DIN rail mount next to the left side of the controller board to tie off wires.
 
 # Keystone skirts
-There is a modified skirt corner with a standard keystone mount included in this repository. It can be used to add keystone connectors for USB or Ethernet as shown in the photo above.
+There is a modified skirt corner with a standard keystone mount included in this repository. It can be used to add keystone connectors for USB or Ethernet as shown in the photo above. Credit to Hartk, we took the keystone from his V0.2 mod and mashed it into the Micron.
