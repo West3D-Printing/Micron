@@ -21,5 +21,5 @@ We recommend the BTT TFT43 screen if you're using a Raspberry Pi. If you're usin
 - The front skirt, accent, and bezel files from https://github.com/PrintersForAnts/Micron/tree/main/Mods/hartk1213/180/Waveshare4.3
 
 # Electronics bay layout
-Our kit uses a slightly different electronics layout for convenience. Look ath the electronics bay:
+Our kit uses a slightly different electronics layout for convenience. Looking at the electronics bay:
 ![image](https://github.com/West3D-Printing/blob/main/Micron/images/image_001.jpg)
