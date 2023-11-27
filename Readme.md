@@ -25,5 +25,4 @@ Our kit uses a slightly different electronics layout for convenience. Looking at
 ![image](images/image_001.jpg)
 - The first DIN rail mounts the PSU and a DIN mount for 3x three port Wagos.
 - The second DIN rail mounts the controller board and SSR for the bed.
-
-This lets us keep the AC wiring short and contained to the right side (in this view) of the elctronics bay. The toolhead wiring and most of the DC wiring is the run on the left side of the bay. We found it helpful to install a DIN rail mount next to the left side of the controller board to tie off wires.
+<br>This lets us keep the AC wiring short and contained to the right side (in this view) of the elctronics bay. The toolhead wiring and most of the DC wiring is the run on the left side of the bay. We found it helpful to install a DIN rail mount next to the left side of the controller board to tie off wires.
