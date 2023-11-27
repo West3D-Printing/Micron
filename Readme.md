@@ -21,5 +21,8 @@ We recommend the BTT TFT43 screen if you're using a Raspberry Pi. If you're usin
 - The front skirt, accent, and bezel files from https://github.com/PrintersForAnts/Micron/tree/main/Mods/hartk1213/180/Waveshare4.3
 
 # Electronics bay layout
-Our kit uses a slightly different electronics layout for convenience. Looking at the electronics bay:
+Our kit uses a slightly different electronics layout for convenience. Looking at the electronics bay (note that your kit may have different motors):
 ![image](images/image_001.jpg)
+- The first DIN rail mounts the PSU and a DIN mount for 3x three port Wagos.
+- The second DIN rail mounts the controller board and SSR for the bed.
+This lets us keep the AC wiring short and contained to the right side (in this view) of the elctronics bay. The toolhead wiring and most of the DC wiring is the run on the left side of the bay. We found it helpful to install a DIN rail mount next to the left side of the controller board to tie off wires.
