@@ -22,4 +22,4 @@ We recommend the BTT TFT43 screen if you're using a Raspberry Pi. If you're usin
 
 # Electronics bay layout
 Our kit uses a slightly different electronics layout for convenience. Look ath the electronics bay:
-![Electronics bay](https://github.com/West3D-Printing/Micron/images/image_001.jpg "West3D Micron electronics bay")
+![image](https://github.com/West3D-Printing/Micron/images/image_001.jpg "West3D Micron electronics bay")
