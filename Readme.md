@@ -8,9 +8,12 @@
 # Toolhead
 The default toolhead for our kit is the Dragonburner with an Orbiter extruder. You can get the files at https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner. You need to use the STL files in the v0.2 directory. There's even a cowl with the Micron logo!
 
-- If you're using the Pancake toolhead board and harness you can get the toolhead board mount at https://github.com/christophmuellerorg/voron_0_pancake_board
+- If you're using the Pancake toolhead board and harness you can get the toolhead board mount at https://github.com/christophmuellerorg/voron_0_pancake_board. This will put the toolhead harness at a 45º angle but works fine.
 - If you're using the EBB36 CAN board we recommend the mount by KayosMaker at https://github.com/KayosMaker/CANboard_Mounts/tree/main/STLs/BTT_EBB36_1.0_Mounts
 
+Please note that if you are using the pancake board with 24v fans you will need to cut the trace(s) between pads 1&2 and solder jump pads 2&3:
+![image](images/image_002.jpg)
+Photo courtesy of ZombieHedgehog
 # Toolhead mount & probe
 - We recommend using Boop as the toolhead mount and Z probe/endstop. You can get the files at https://github.com/PrintersForAnts/Boop/tree/main
 - The DragonBurner toolhead requires a modified Boop front: https://github.com/chirpy2605/voron/blob/main/general/Experimental/Boop/boop_front.stl
