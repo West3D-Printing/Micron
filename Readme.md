@@ -16,6 +16,7 @@ Our choice is the Dragonburner. The Dragonburner (or Rapidburner) offer better p
 
 We usually pair the Dragonburner with the Orbiter 2 extruder, but there are many compatible options including G2SA.
 
+A few notes on toolhead boards:
 - If you're using the Pancake toolhead board and harness you can get the toolhead board mount at https://github.com/christophmuellerorg/voron_0_pancake_board. This will put the toolhead harness at a 45º angle but works fine.
 - If you're using the EBB36 CAN board we recommend the mount by KayosMaker at https://github.com/KayosMaker/CANboard_Mounts/tree/main/STLs/BTT_EBB36_1.0_Mounts
 
