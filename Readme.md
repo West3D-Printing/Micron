@@ -10,7 +10,11 @@ While generally consistant with generic Micron builds the information here is in
 - A modified bowden tube entry that adds an ECAS fitting can be found in this repository
 - If you plan on moving the printer often this spool holder is convenient: https://www.printables.com/model/542953-voron-v02-foldable-spool-holder
 # Toolhead
-The default toolhead for our kit is the Dragonburner with an Orbiter extruder. You can get the files at https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner. You need to use the STL files in the v0.2 directory. There's even a cowl with the Micron logo!
+There are several toolhead choices. The BOM stock toolhead is the Mini Stealthburner.
+
+Our choice is the Dragonburner. The Dragonburner (or Rapidburner) offer better part cooling with two 4010 blowers. You can get the files at https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner. You need to use the STL files in the v0.2 directory. There's even a cowl with the Micron logo!
+
+We usually pair the Dragonburner with the Orbiter 2 extruder, but there are many compatible options including G2SA.
 
 - If you're using the Pancake toolhead board and harness you can get the toolhead board mount at https://github.com/christophmuellerorg/voron_0_pancake_board. This will put the toolhead harness at a 45º angle but works fine.
 - If you're using the EBB36 CAN board we recommend the mount by KayosMaker at https://github.com/KayosMaker/CANboard_Mounts/tree/main/STLs/BTT_EBB36_1.0_Mounts
@@ -39,6 +43,6 @@ Please note that the spade lugs don't slide into the AC input screw terminals; y
 *DO NOT HOOK THE BLUE WIRE THERE! FOR ILLUSTRATION ONLY*
 
 # Keystone skirts
-There is a modified skirt corner with a standard keystone mount included in this repository. It can be used to add keystone connectors for USB or Ethernet as shown in the photo above. Credit to Hartk, we took the keystone from his V0.2 mod and mashed it into the Micron.
+There is a modified skirt corner with a connector keystone included in this repository. It can be used to add keystone connectors for USB or Ethernet as shown in the photo above. Credit to Hartk, we took the keystone from his V0.2 mod and mashed it into the Micron.
 
-There are skirts available on Printables with keystones in the back but we preferred not running the data lines to the back. If you'd prefer the rear facing connectors the mod is available at https://www.printables.com/model/531160-micron-smol-hex-skirts-with-optional-keystone-rear
+There are skirts available on Printables with keystones in the back but we preferred not running the data lines to the back. If you'd like the rear facing connectors the mod is available at https://www.printables.com/model/531160-micron-smol-hex-skirts-with-optional-keystone-rear
