@@ -34,8 +34,8 @@ Our kit uses a slightly different electronics layout for convenience. Looking at
 - The second DIN rail mounts the controller board and SSR for the bed.
 <br><br>This lets us keep the AC wiring short and contained to the right side (in this view) of the electronics bay. The toolhead wiring and most of the DC wiring is the run on the left side of the bay. We found it helpful to install a DIN rail mount next to the left side of the controller board to tie off wires.
 
-Please note that the spade lugs don't slide into the screw terminals; you need to remove the screw, put the lug in from the top, then replace the screw. The terminal block is designed to capture the lug so it can't slide out if the screw loosens.
-![image](images/image_003.jpg)
+Please note that the spade lugs don't slide into the AC input screw terminals; you need to remove the screw, put the lug in from the top, then replace the screw. The terminal block is designed to capture the lug so it can't slide out if the screw loosens.
+![image](images/image_003.jpg "*DO NOT HOOK THE BLUE WIRE THERE! FOR ILLUSTRATION ONLY*")
 *DO NOT HOOK THE BLUE WIRE THERE! FOR ILLUSTRATION ONLY*
 
 # Keystone skirts
