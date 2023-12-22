@@ -1,3 +1,5 @@
+# **Please note this document is a work in progress and will be updated periodically.**
+
 # Printed parts, manual, CAD
 - Your main source of information is Hartk's GitHub repo: https://github.com/PrintersForAnts/Micron. Please read through this document before you start printing your parts, as there are some modifications we recommend.
 - When printing parts be sure to use the 180 files.
@@ -23,12 +25,15 @@ We recommend the BTT TFT43 screen if you're using a Raspberry Pi. If you're usin
 - The mount in the BTT_TFT43 folder in this repository
 - The front skirt, accent, and bezel files from https://github.com/PrintersForAnts/Micron/tree/main/Mods/hartk1213/180/Waveshare4.3
 
-# Electronics bay layout
+# Electronics bay
 Our kit uses a slightly different electronics layout for convenience. Looking at the electronics bay (note that your kit may have different motors):
 ![image](images/image_001.jpg)
 - The first DIN rail mounts the PSU and a DIN mount for 3x three port Wagos.
 - The second DIN rail mounts the controller board and SSR for the bed.
 <br><br>This lets us keep the AC wiring short and contained to the right side (in this view) of the electronics bay. The toolhead wiring and most of the DC wiring is the run on the left side of the bay. We found it helpful to install a DIN rail mount next to the left side of the controller board to tie off wires.
+
+Please note that the spade lugs don't slide into the screw terminals; you need to remove the screw, put the lug in from the top, then replace the screw. The terminal block is designed to capture the lug so it can't slide out if the screw loosens.
+![image](images/image_003.jpg)
 
 # Keystone skirts
 There is a modified skirt corner with a standard keystone mount included in this repository. It can be used to add keystone connectors for USB or Ethernet as shown in the photo above. Credit to Hartk, we took the keystone from his V0.2 mod and mashed it into the Micron.
