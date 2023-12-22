@@ -1,4 +1,5 @@
 # **Please note this document is a work in progress and will be updated periodically.**
+While generally consistant with generic Micron builds the information here is intended specifically for West3D's Micron+ kit.
 
 # Printed parts, manual, CAD
 - Your main source of information is Hartk's GitHub repo: https://github.com/PrintersForAnts/Micron. Please read through this document before you start printing your parts, as there are some modifications we recommend.
@@ -34,6 +35,7 @@ Our kit uses a slightly different electronics layout for convenience. Looking at
 
 Please note that the spade lugs don't slide into the screw terminals; you need to remove the screw, put the lug in from the top, then replace the screw. The terminal block is designed to capture the lug so it can't slide out if the screw loosens.
 ![image](images/image_003.jpg)
+*DO NOT HOOK THE BLUE WIRE THERE! FOR ILLUSTRATION ONLY*
 
 # Keystone skirts
 There is a modified skirt corner with a standard keystone mount included in this repository. It can be used to add keystone connectors for USB or Ethernet as shown in the photo above. Credit to Hartk, we took the keystone from his V0.2 mod and mashed it into the Micron.
