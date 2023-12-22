@@ -39,3 +39,5 @@ Please note that the spade lugs don't slide into the screw terminals; you need t
 
 # Keystone skirts
 There is a modified skirt corner with a standard keystone mount included in this repository. It can be used to add keystone connectors for USB or Ethernet as shown in the photo above. Credit to Hartk, we took the keystone from his V0.2 mod and mashed it into the Micron.
+
+There are skirts available on Printables with keystones in the back but we preferred not running the data lines to the back. If you'd prefer the rear facing connectors the mod is available at https://www.printables.com/model/531160-micron-smol-hex-skirts-with-optional-keystone-rear
