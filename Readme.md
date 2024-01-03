@@ -44,7 +44,6 @@ Please note that the spade lugs don't slide into the AC input screw terminals; y
 *DO NOT HOOK THE BLUE WIRE THERE! FOR ILLUSTRATION ONLY*
 
 # Wiring info
-|   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|
 |Use|Wire|Color|Connector 1|Connector 2|Length|Notes|
 |Power inlet to switch Live|18GA|Blue|Quick disconnect - Spade 1/4"|Quick disconnect - Spade 1/4"|70mm||
