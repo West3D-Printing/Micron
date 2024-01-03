@@ -1,5 +1,5 @@
 # **Please note this document is a work in progress and will be updated periodically.**
-While generally consistant with generic Micron builds the information here is intended specifically for West3D's Micron+ kit. If you find errors, omissions, or have suggestions please feel free to open an issue.
+While generally consistent with generic Micron builds the information here is intended specifically for West3D's Micron+ kit. If you find errors, omissions, or have suggestions please feel free to open an issue.
 
 # Printed parts, manual, CAD
 - Your main source of information is Hartk's GitHub repo: https://github.com/PrintersForAnts/Micron. Please read through this document before you start printing your parts, as there are some modifications we recommend.
@@ -42,6 +42,32 @@ Our kit uses a slightly different electronics layout for convenience. Looking at
 Please note that the spade lugs don't slide into the AC input screw terminals; you need to remove the screw, put the lug in from the top, then replace the screw. The terminal block is designed to capture the lug so it can't slide out if the screw loosens.
 ![image](images/image_003.jpg)
 *DO NOT HOOK THE BLUE WIRE THERE! FOR ILLUSTRATION ONLY*
+
+# Wiring info
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+|Use|Wire|Color|Connector 1|Connector 2|Length|Notes|
+|Power inlet to switch Live|18GA|Blue|Quick disconnect - Spade 1/4"|Quick disconnect - Spade 1/4"|70mm||
+|Power inlet to switch Neutral|18GA|Brown|Quick disconnect - Spade 1/4"|Quick disconnect - Spade 1/4"|70mm||
+||||||||
+|Power switch to Wago distribution Live|18GA|Blue|Quick disconnect - Spade 1/4"|Bare - Stripped|190mm||
+|Power switch to Wago distribution Neutral|18GA|Brown|Quick disconnect - Spade 1/4"|Bare - Stripped|200mm||
+|Power switch to Wago distribution Ground|18GA|Green/Yellow|Quick disconnect - Spade 1/4"|Bare - Stripped|260mm||
+||||||||
+|Ground Wago to UHP|18GA|Green/Yellow|Bare - Stripped|Spade lug|95mm||
+|Ground Wago to SSR lug|18GA|Green/Yellow|Bare - Stripped|Spade lug|65mm||
+|SSR lug to bed|18GA|Green/Yellow|Quick disconnect - Spade|bare|300mm||
+||||||||
+|Live Wago to SSR terminal 2|18GA|Blue|Bare - Stripped|Spade lug|95mm||
+||||||||
+|Octopus Bed + to SSR|20GA|Red|Spade lug|Spade lug|290mm||
+|Octopus Bed - to SSR|20GA|Black|Spade lug|Spade lug|290mm||
+||||||||
+|UHP to BTT Pi +|20GA|Red|Spade lug|Ferrule|290mm||
+|UHP to BTT Pi -|20GA|Black|Spade lug|Ferrule|290mm||
+||||||||
+|UHP to Octopus power + and motor power +|18GA|Red|Spade lug|Spade lug|170mm|Y cable, 50mm to second spade lug|
+|UHP to Octopus power - and motor power -|18GA|Black|Spade lug|Spade lug|170mm|Y cable, 50mm to second spade lug|
 
 # Keystone skirts
 There is a modified skirt corner with a connector keystone included in this repository. It can be used to add keystone connectors for USB or Ethernet as shown in the photo above. Credit to Hartk, we took the keystone from his V0.2 mod and mashed it into the Micron.
