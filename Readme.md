@@ -25,7 +25,7 @@ Please note that if you are using the pancake board with 24v fans you will need 
 Photo courtesy of ZombieHedgehog
 # Toolhead mount & probe
 - We recommend using Boop as the toolhead mount and Z probe/endstop. You can get the files at https://github.com/PrintersForAnts/Boop/tree/main
-- The DragonBurner toolhead requires a modified Boop front: https://github.com/chirpy2605/voron/blob/main/general/Experimental/Boop/boop_front.stl
+- The DragonBurner toolhead requires a modified Boop front: https://github.com/chirpy2605/voron/tree/main/general/Alternative_Voron_Mounts
 
 # Screen
 We recommend the BTT TFT43 screen if you're using a Raspberry Pi. If you're using a BTT Pi we recommend you either don't use a screen or source a different option; the BTT TFT35 SPI screen doesn't meet our usability requirements. You will need:
