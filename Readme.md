@@ -41,7 +41,6 @@ Our kit uses a slightly different electronics layout for convenience. Looking at
 
 Please note that the spade lugs don't slide into the AC input screw terminals; you need to remove the screw, put the lug in from the top, then replace the screw. The terminal block is designed to capture the lug so it can't slide out if the screw loosens.
 ![image](images/image_003.jpg)
-*DO NOT HOOK THE BLUE WIRE THERE! FOR ILLUSTRATION ONLY*
 
 # Wiring info
 |Use|Wire|Color|Connector 1|Connector 2|Length|Notes|
