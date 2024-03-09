@@ -1,5 +1,5 @@
 # **Please note this document is a work in progress and will be updated periodically.**
-While generally consistent with generic Micron builds the information here is intended specifically for West3D's Micron+ kit. If you find errors, omissions, or have suggestions please feel free to open an issue.
+While generally consistent with generic Micron builds the information here is intended specifically for [West3D's Micron+ kit](https://west3d.com/products/micron-plus-180-self-source-configurator-by-west3d-printers-for-ants). If you find errors, omissions, or have suggestions please feel free to open an issue.
 
 # Printed parts, manual, CAD
 - Your main source of information is Hartk's GitHub repo: https://github.com/PrintersForAnts/Micron. Please read through this document before you start printing your parts, as there are some modifications we recommend.
